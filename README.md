@@ -33,6 +33,12 @@ Le bot propose un menu interactif, un ASCII art stylé, un historique des conver
 - pkg upgrade
 - pkg install python
 - pkg install python3
+- git clone https://github.com/Nantenaina-josoa/ChatAi/
 - pip install requests
+- cd ChatAi
+- python main.py
+---
+*Si tu veux de supprimer :*
+- rm -rf ChatAi
 
 # Merci beaucoup 😊
