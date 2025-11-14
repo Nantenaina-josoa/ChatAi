@@ -71,7 +71,7 @@ def menu():
 
 
 def chat_loop(pseudo):
-    print(GREEN + f"\n --> Conversation commencée, {pseudo} ! \n --> Tape ' menu ' pour revenir au menu " + RESET)
+    print(GREEN + f"\n --> Conversation commencée, {pseudo} ! \n --> Tape ' menu ' pour revenir au menu \n" + RESET)
     while True:
         msg = input(GREEN + f"{pseudo} : " + RESET)
         if msg.lower() == "quit":
